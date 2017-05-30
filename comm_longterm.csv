@@ -1,0 +1,5 @@
+element,tradinghours,contractsize,months,pointvalue,symbol,exchange,country
+silver,17:00 - 16:15 CT (Sun - Fri),"5,000 Troy Ounces",FHKUNZ,1 = $5000,SI
+copper,17:00 - 16:15 CT (Sun - Fri),"25,000 Lbs.",HKNUZ,1 = $25000,HG,COMEX
+aluminum,17:00 - 16:15 CT (Sun - Fri),25 Tonnes,FGHJKMNQUVXZ,1 = 25$,MAL,N/A
+gold,17:00 - 16:15 CT (Sun - Fri),100 Troy Ounces,GJMQVZ,1 = $100,GC,COMEX,US
