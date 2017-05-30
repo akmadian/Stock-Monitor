@@ -20,7 +20,9 @@ COMM_LONGTERM.csv
  - Contains long term data about each stock. 
  
  
- 
+  
+   
+   
 main_config.ini
 Config file for main.py, contains information used for bug reporting and scraping
 
