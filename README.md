@@ -9,7 +9,6 @@ Dependencies:
  - twilio
  - numpy
 ___
-
 ___
  
 main.py
@@ -20,10 +19,9 @@ main.py
  
 COMM_LONGTERM.csv
  - Contains long term data about each stock. 
-
+___
 ___
 
-___
 main_config.ini
 Config file for main.py, contains information used for bug reporting and scraping
 
@@ -33,7 +31,7 @@ Fields can be left blank if you don't want to use that service. Handling for bla
  is built in.
 
 All fields expect plaintext with no additional formatting for the interpreter.
-
+___
 larloginemail = The email to be used to log in to gmail for email reporting.
 
 larloginpassword = The password for larloginemail.
